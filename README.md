@@ -13,7 +13,7 @@
   * Flux
   * Higher Order Component (HOC)
 
-## Different phases of React component’s lifecycle
+## Different phases of React component’s lifecycle ##
 
      * Initial Rendering Phase: This is the phase when the component is about to start its life journey and make its way to the DOM.
      * Updating Phase: Once the component gets added to the DOM, it can potentially update and re-render only when a prop or state change occurs. That happens only in this phase.
