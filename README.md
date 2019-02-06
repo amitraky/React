@@ -33,6 +33,14 @@
 
 ## Advanced
 
+React Class Components
+React Props
+State in React
+React Lifecycle & Lifecycle Methods
+React Component Syntax
+Functions as Components in React
+
+
 
 
 
